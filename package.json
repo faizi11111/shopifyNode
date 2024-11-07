@@ -1,0 +1,25 @@
+{
+  "name": "shopifyNode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start:dev": "nodemon"
+  },
+  "devDependencies": {
+    "@types/node": "^22.8.4",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cookie": "^1.0.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "nonce": "^1.0.4",
+    "querystring": "^0.2.1",
+    "request-promise": "^4.2.6",
+    "ts-node": "^10.9.2"
+  }
+}
